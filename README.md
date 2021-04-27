@@ -1,4 +1,4 @@
-> If you use our code, please kindly cite the following paper: F. Cheng, F. Chu, Y. Xu and L. Zhang, "A Steering-Matrix-Based Multiobjective Evolutionary Algorithm for High-Dimensional Feature Selection," in *IEEE Transactions on Cybernetics*, 2021
+> If you use our code, please kindly cite the following paper: F. Cheng, F. Chu, Y. Xu and L. Zhang, "A Steering-Matrix-Based Multiobjective Evolutionary Algorithm for High-Dimensional Feature Selection," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3053944.
 
 ---
 
